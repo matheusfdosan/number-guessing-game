@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Um projeto daorinha, desenvolvido por conta desse [vídeo](https://www.youtube.com/watch?v=gPbpGWFl8mQ&list=PLNCevxogE3fgy0pAzVccadWKaQp9iHspz&index=4) do [Coding Artist](https://www.youtube.com/@CodingArtist)
 
-Dê uma olhada no projeto clicando nesse [link](https://matheusfdosan.github.io/to-do-list/).
+Dê uma olhada no projeto clicando nesse [link](https://matheusfdosan.github.io/number-guessing-game/).
 
 ## Contato
 
