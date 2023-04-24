@@ -26,7 +26,7 @@ function play() {
       msg2.textContent = "No. Of Guesses: " + no_of_guesses
       msg3.textContent = "Guessed numbers are: " + guesses_nums
     } else if (user_guess === answer) {
-      msg1.textContent = "You're god damn right!"
+      msg1.textContent = "You're goddamn right!"
       msg1.style.color = "#0f0"
       msg2.textContent = "The number was: " + answer
       msg3.textContent = "Guessed numbers it in " + no_of_guesses + " guesses."
